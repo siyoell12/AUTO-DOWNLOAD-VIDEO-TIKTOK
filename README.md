@@ -36,8 +36,8 @@ pip install yt-dlp
 
 #### 4. Clone or Download
 ```bash
-git clone [your-repo-url]
-cd tiktok-downloader-watermark
+git clone https://github.com/siyoell12/AUTO-DOWNLOAD-VIDEO-TIKTOK.git
+cd AUTO-DOWNLOAD-VIDEO-TIKTOK
 ```
 
 ## Quick Start
