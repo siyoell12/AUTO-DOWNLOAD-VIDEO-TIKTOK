@@ -5,7 +5,7 @@ A powerful Python script for downloading TikTok videos in bulk and adding custom
 ## Features
 
 - ✅ **Bulk Download**: Download multiple TikTok videos from a list of URLs
-- ✅ **High Quality**: Downloads videos in HD quality (720p+ preferred)
+- ✅ **High Quality**: Downloads videos in HD quality (1080p+ preferred)
 - ✅ **Custom Watermarks**: Add custom text watermarks to videos
 - ✅ **Parallel Processing**: Download multiple videos simultaneously
 - ✅ **Cross-Platform**: Works on Windows, macOS, and Linux
